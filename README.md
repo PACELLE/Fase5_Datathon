@@ -30,7 +30,8 @@ Analisar grandes volumes de dados para extrair insights acionáveis e desenvolve
 4.  **Avaliação:** Análise das métricas de performance (Acurácia, RMSE, F1-Score, etc.).
 
 ## 👥 Autores
-* **PACELLE** - [Seu Link do GitHub]
+* **PACELLE** - https://github.com/PACELLE
+* **PACELLE** - https://github.com/PACELLE
 
 ---
 
